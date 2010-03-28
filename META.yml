@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Catalyst-TraitFor-Controller-jQuery-jqGrid
-version:             0.01
-abstract:            ~
+version:             0.02
+abstract:            Resultset helper for jQuery plugin jqGrid
 license:             ~
 author:              
     - Ian Docherty <pause@icydee.com>
