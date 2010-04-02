@@ -12,6 +12,7 @@ WriteMakefile(
         'Test::Exception'       => 0,
         'Moose::Role'           => 0,
         'namespace::autoclean'  => 0,
+        'DBICx::TestDatabase'   => 0,
     },
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Catalyst/TraitFor/Controller/jQuery/jqGrid.pm', # retrieve abstract from module
